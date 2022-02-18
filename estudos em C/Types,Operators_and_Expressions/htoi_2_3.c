@@ -35,3 +35,4 @@ int	htoi(char s[])
 	}
 	return n;
 }
+/* ver de usar no printf*/
